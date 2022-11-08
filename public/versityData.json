@@ -1,0 +1,504 @@
+[
+    {
+        "id":1,
+        "uni_name": "Dhaka University",
+        "rating": 4.179,
+       "recommend_type": "Strongly Recommended",
+         "Vstatus": "Strongly Recommendated",
+         "img":"https://i.ibb.co/Sn8L4dm/DU-logo.jpg"
+         
+
+    },
+    {
+         "id": 2,
+         "uni_name": "Jahangirnagar University",
+         "rating":4.25,
+         "recommend_type": "Strongly Recommended",
+         "Vstatus": "Strongly Recommendated",
+         "img":"https://i.ibb.co/tzF0q4h/Jahangirnagar-university.png"
+         
+    },
+    {
+         "id":3,
+         "uni_name" :"Jagannath University",
+        "rating":3.697,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/hdDpvGq/Jagannath-University.png"
+    },
+    {
+         "id":4,
+         "uni_name": "International Islamic University Chittagong",
+         "rating": 3.247,
+         "recommend_type" :"Good",
+         "Vstatus": "Good",
+         "img":"https://i.ibb.co/1Xg3ss9/IIUC.png"
+    },
+   {
+        "id":5,
+      "uni_name": "Independent University, Bangladesh",
+        "rating": 3.446,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/Vx3hSfh/Independent-University-Bangladesh-logo.png"
+    },
+    {
+        "id":6,
+        "uni_name": "University of Science & Technology Chittagong",
+        "rating": 3.375,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/nBnYpbH/ustc.png"
+    },
+    {
+        "id":7,
+        "uni_name": "University of Chittagong.",
+        "rating": 3.339,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+         "img":"https://i.ibb.co/8NDB9kF/CU.jpg"
+    },
+    {
+        "id":8,
+        "uni_name": "Rabindra University, Bangladesh",
+        "rating": 3.166,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/Gp2NhzK/Rabindra-University-Logo-svg.png"
+    },
+    {
+        "id":9,
+        "uni_name": "The Peoples University of Bangladesh",
+        "rating": 3.285,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+         "img":"https://i.ibb.co/PGMxC06/People-s-University-of-Bangladesh-logo.jpg"
+    },
+    {
+        "id":10,
+        "uni_name": "Ahsanullah University of Science and Technology",
+        "rating": 3.589,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img": "https://i.ibb.co/H2bQ9Zn/AUST.png"
+    },
+    {
+        "id":11,
+       "uni_name": "Bangladesh university of Professionals",
+       "rating": 3.65,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/rFQdstQ/BUP.png"
+    },
+    {
+       " id":12,
+        "uni_name": "Pabna University of Science & Technology",
+        "rating": 3.578,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/NsWxvX2/pust-logo.png"
+    },
+    {
+        "id":13,
+        "uni_name": "Northen University",
+        "rating": 3.619,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+         "img":"https://i.ibb.co/59k79Gd/NUB-Logo.jpg"
+    },
+    {
+        "id":14,
+        "uni_name": "North South University",
+        "rating": 3.728,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/5v7T18p/NSU.png"
+    },
+    {
+        "id":15,
+        "uni_name": "Bangladesh Agricultural University",
+        "rating": 3.00,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img": "https://i.ibb.co/x1N9dVp/Bangladesh-Agricultural-University-crest.png"
+    },
+    {
+        "id":16,
+        "uni_name": "Rajshahi University",
+        "rating": 4.428,
+        "recommend_type": "Strongly Recommended",
+         "Vstatus": "Strongly Recommendated",
+         "img": "https://i.ibb.co/Bn1BG7d/rajshahi-university.webp"
+    },
+    {
+        "id":17,
+        "uni_name": "Bangladesh University of Engineering & Technology",
+        "rating": 4.260,
+        "recommend_type": "Strongly Recommended",
+        "Vstatus": "Strongly Recommendated",
+        "img":"https://i.ibb.co/qR753h3/BUET-LOGO-svg.png"
+    },
+    {
+        "id":18,
+        "uni_name": "Premier University.",
+        "rating": 3.50,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/cvBmgmf/puc.png"
+    },
+    {
+        "id":19,
+        "uni_name":"Kurigram Agricultural University",
+        "rating": 3.615,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/MkVSRzP/kurigram-agricultural.jpg"
+
+    },
+    {
+        "id":20,
+        "uni_name": "Islamic University and Technology",
+        "rating": 3.822,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/PFZQW8p/Islamic-University-of-Technology-coat-of-arms.png"
+
+    },
+    {
+        "id":21,
+        "uni_name": "Chittagong University of Engineering & Technology",
+        "rating": 3.437,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/JxCg54Y/cuet.jpg"
+    },
+    {
+        "id":22,
+        "uni_name": "Dhaka University of Engineering & Technology",
+        "rating": 3.540,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/58fg2CX/DUET-Logo.png"
+
+    },
+    {
+        "id":23,
+        "uni_name": "Bangabndhu Sheikh Mujibur Rahman Aviation And Aerospace University (BSMRAAU)",
+        "rating": 3.406,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/vjKwL8H/BSMRAAU.png"
+    },
+    {
+        "id":24,
+        "uni_name": "Canadian University Bangladesh",
+        "rating": 3.760,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/wdTxrvd/Canadian-university-Bangladesh.png"
+
+    },
+    {
+        "id":25,
+        "uni_name": "BGC Trust University Bangladesh",
+        "rating": 3.350,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/b37kfc9/bgc-trust.png"
+    },
+    {
+        "id":26,
+        "uni_name": "Khulna University of Engineering & Technology",
+        "rating": 3.666,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/1GnYG7Y/Kuet.png"
+
+    },
+    {
+        "id":27,
+        "uni_name":"Noakhali Science & technology University.",
+        "rating": 3.264,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/jHJHQ5K/Nstu.png"
+    },
+    {
+        "id":28,
+        "uni_name": "Southern University Bangladesh.",
+        "rating": 3.789,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/7WVhPq4/Southern-University-Bangladesh.jpg"
+
+    },
+    {
+        "id":29,
+        "uni_name": "Shahjalal University of Science & Technology",
+        "rating": 3.677,
+        "recommend_type": "Recommended",
+        "img":"https://i.ibb.co/5LnSKCk/SUST-logo.png"
+    },
+    {
+        "id":30,
+        "uni_name": "Rajshahi Medical University",
+        "rating": 2.60,
+        "recommend_type": "Not Recommended",
+        "Vstatus":"Not Recommendate",
+        "img":"https://i.ibb.co/Tw6mH6R/Rajshahi-Medical-university-logo.png"
+    },
+    {
+        "id":31,
+        "uni_name": "Portcity International University Chittagong",
+        "rating": 3.227,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/hCJLQVW/Port-City-International-University-Logo.png"
+    },
+    {
+        "id":32,
+        "uni_name":"Green University",
+        "rating": 4.054,
+        "recommend_type": "Strongly Recommended",
+        "Vstatus": "Strongly Recommendated",
+        "img":"https://i.ibb.co/3skLvQb/Green-University-Bangladesh.png"
+    },
+    {
+        "id":33,
+        "uni_name": "Khulna Agricultural University",
+        "rating": 3.236,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/qsr3CPD/Khulna-Agricultural-University-logo.jpg"
+    },
+    {
+        "id":34,
+        "uni_name": "National University",
+        "rating": 3.450,
+        "recommend_type":"Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/SyJ1QSr/National-University-Bangladesh-crest-svg.png"
+    },
+    {
+        "id":35,
+        "uni_name": "Bangladesh university of Textiles.",
+        "rating": 3.423,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/DDHrMnt/BUTEX.png"
+    },
+    {
+        "id":36,
+        "uni_name": "Bangladesh University of Business and Technology.",
+        "rating": 3.882,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/PQ9Wv5D/BUBT-Logo.png"
+    },
+    {
+        "id":37,
+        "uni_name": "University of Liberal Arts Bangladesh",
+        "rating": 3.400,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/nQn9tqZ/ULAB.png"
+    },
+    {
+        "id":38,
+        "uni_name": "Bangabandhu Sheikh Mujibur Rahman Science & technology University.",
+        "rating": 3.642,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/27Qdq6q/Bsmrstu-logo1-jpg.png"
+
+    },
+    {
+        "id":39,
+        "uni_name": "Uttara University.",
+        "rating": 3.583,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/jwCDBLh/Uttara-university.png"
+
+    },
+    {
+        "id":40,
+        "uni_name": "Khulna University",
+        "rating": 3.851,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/TtXZ8ds/Khulna-University-Logo-svg.png"
+
+    },
+    {
+        "id":41,
+        "uni_name": "Dhaka International university",
+        "rating": 3.792,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/brrbcMV/diu-university-logo.png"
+
+    },
+    {
+        "id":42,
+        "uni_name": "University of Rajshahi",
+        "rating": 3.529,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/cL5xyx4/rajshahi-university-logo.jpg"
+
+    },
+    {
+        "id":43,
+        "uni_name": "University of Asia Pasefic",
+        "rating": 3.785,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/7zwQJBH/UAP.png"
+
+    },
+    {
+        "id":44,
+        "uni_name": "Chittagong Medical University",
+        "rating": 2.833,
+        "recommend_type": "Not Recommended",
+        "Vstatus":"Not Recommendate",
+        "img":"https://i.ibb.co/yWGtFDP/Chittagong-medical-university.jpg"
+    },
+    {
+        "id":45,
+        "uni_name": "Brac University.",
+        "rating": 3.840,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/w4KxNPs/Brac-University-Logo.png"
+
+    },
+    {
+        "id":46,
+        "uni_name": "Stamford University",
+        "rating": 3.904,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/GpBJKN4/Stamford-University-Bangladesh-Monogram-svg.png"
+
+    },
+    {
+        "id":47,
+        "uni_name": "Bangabandhu Sheikh Mujibur Rahman Digital University, Bangladesh",
+        "rating": 3.869,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+         "img": "https://i.ibb.co/f0nnF71/Bangabandhu-Sheikh-Mujibur-Rahman-Digital-University.png"
+
+    },
+    {
+        "id":48,
+        "uni_name": "Jessore University of Science & Technology",
+        "rating": 2.941,
+        "recommend_type": "Not Recommended",
+        "Vstatus":"Not Recommendate",
+        "img":"https://i.ibb.co/Vm53Ksp/JUST.jpg"
+    },
+    {
+        "id":49,
+        "uni_name": "Barishal University",
+        "rating": 3.516,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+         "img": "https://i.ibb.co/h7Mcgdd/Barishal-University.png"
+
+    },
+    {
+        "id":50,
+        "uni_name": "Rajshahi University of Engineering & Technology",
+        "rating": 3.444,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/Z6wCkHv/RUET-logo-svg.png"
+    },
+    {
+        "id":51,
+        "uni_name": "University of Barishal",
+        "rating": 3.50,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/h7Mcgdd/Barishal-University.png"
+
+    },
+    {
+        "id":52,
+        "uni_name": "Chittagong Indepemndent University",
+        "rating": 2.923,
+        "recommend_type": "Not Recommended",
+        "Vstatus":"Not Recommendate",
+        "img":"https://i.ibb.co/d5TFKh6/Chittagong-Independent-Universitylogo.jpg"
+    },
+    {
+        "id":53,
+        "uni_name": "Sylhet Medical University",
+        "rating": 3.750,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/5FHrwPQ/Sylhet-Medical-University-logo.png"
+
+    },
+    {
+        "id":54,
+        "uni_name": "East Delta University",
+        "rating": 4.125,
+        "recommend_type": "Strongly Recommended",
+        "Vstatus": "Strongly Recommendated",
+        "img":"https://i.ibb.co/8j1tBNx/EDU.png"
+    },
+    {
+        "id":55,
+        "uni_name": "Daffodil International University",
+        "rating": 4.125,
+        "recommend_type": "Strongly Recommended",
+        "Vstatus": "Strongly Recommendated",
+        "img":"https://i.ibb.co/tP34sTg/daffodil-international-university-logo.png"
+    },
+    {
+        "id":56,
+        "uni_name": "Primeasia University",
+        "rating": 3.272,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/nnMG4WX/Primeasia-University-logo.png"
+    },
+    {
+        "id":57,
+        "uni_name":"BGMEA University of Fashion and Technology",
+        "rating": 3.27,
+        "recommend_type": "Good",
+        "img":"https://i.ibb.co/Qrwm8X0/BUFT.png"
+    },
+    {
+        "id":58,
+        "uni_name": "United International University",
+        "rating": 3.893,
+        "recommend_type": "Recommended",
+        "Vstatus": "Recommendate",
+        "img":"https://i.ibb.co/h1jQh0w/UIU-Logo-250.png"
+
+    },
+    {
+        "id":59,
+        "uni_name": "Chittagong Vetenary and Animal Sciences University",
+        "rating": 3.166,
+        "recommend_type": "Good",
+        "Vstatus": "Good",
+        "img":"https://i.ibb.co/dfjQ65Z/cvasu-icon.png"
+    },
+    {
+        "id":60,
+        "uni_name": "American international University Bangladesh",
+       "rating": 3.685,
+       "recommend_type": "Recommended",
+       "Vstatus": "Recommendate",
+       "img":"https://i.ibb.co/jGCsNH0/American-International-University-Bangladesh-Monogram-svg.png"
+
+    }
+    
+]
