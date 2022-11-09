@@ -5,9 +5,14 @@ import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import Versity from "./Page/Versity";
 import Login from "./component/Shared/Login/Login";
 import Signup from "./component/Shared/Signup/Signup";
-import Footer from "./component/Shared/Footer/Footer";
-import NavBar from "./component/Shared/Nav/NavBar";
+
 import { useAuthContext } from "./hooks/useAuthContext";
+
+import Layout from "./Layout/Layout";
+import HomePage from "./Page/HomePage";
+
+
+
 
 function App() {
   const { user } = useAuthContext();
@@ -15,9 +20,11 @@ function App() {
     <div className="App">
       <Provider store={store}>
         <BrowserRouter>
-          <NavBar />
+          {/* <NavBar />
+          <Home/> */}
+          <Layout>
           <Routes>
-            {/* <Route path="/urs" element={<Versity />}></Route> */}
+          <Route path="/" element={<HomePage />} />
             <Route
               path="/urs"
               element={user ? <Versity /> : <Navigate to="/" />}
@@ -31,7 +38,8 @@ function App() {
               element={!user ? <Signup /> : <Navigate to="/urs" />}
             />
           </Routes>
-          <Footer />
+          {/* <Footer /> */}
+          </Layout>
         </BrowserRouter>
       </Provider>
     </div>

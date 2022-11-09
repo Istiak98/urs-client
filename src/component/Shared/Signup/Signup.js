@@ -21,7 +21,7 @@ const Signup = () => {
     <Container>
       <div className="registrationFormMainDiv pt-5 mt-5">
         <div className="registrationFormDiv">
-          <h2 className="registrationForm__title">registration Form</h2>
+          <h2 className="registrationForm__title">Signup Form</h2>
           <form className="registrationForm" onSubmit={handleSubmit}>
             <Input
               isFloatingLabelInput={true}
